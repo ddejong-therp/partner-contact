@@ -1,8 +1,8 @@
-# Copyright 2013-2017 Therp BV <http://therp.nl>
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+# Copyright 2013-2020 Therp BV <https://therp.nl>.
+# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
 {
     "name": "Partner Relations",
-    "version": "12.0.1.2.1",
+    "version": "12.0.1.2.2",
     "author": "Therp BV,Camptocamp,Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/partner-contact",
     "complexity": "normal",
